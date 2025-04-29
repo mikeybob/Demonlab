@@ -1,0 +1,6 @@
+[submodule "demonlab-dashboard"]
+	path = demonlab-dashboard
+	url = git@github.com:mikeybob/demonlab-dashboard.git
+[submodule "demonlab-foundation"]
+	path = demonlab-foundation
+	url = git@github.com:mikeybob/demonlab-foundation.git
